@@ -1,4 +1,4 @@
-
+USE RikkeiClinicDB;
 DELIMITER //
 
 CREATE TRIGGER PreventStatusRevert
